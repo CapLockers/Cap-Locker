@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAP LOCKERS - Secure Your Adventure</title>
+    <meta name="description" content="CAP LOCKERS is the ultimate cap fastening device for outdoor enthusiasts. Keep your cap secure during high-movement activities and windy conditions.">
+    <meta property="og:title" content="CAP LOCKERS - Secure Your Adventure">
+    <meta property="og:description" content="Never lose your cap again! The innovative cap fastening device for surfers, adventurers, and outdoor lovers.">
+    <meta property="og:image" content="hero-image.jpg">
+    <meta property="og:url" content="https://caplockers.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #c3dbe5;
+        }
+        header {
+            background-color: #567f90;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+            background: url('hero-image.jpg') no-repeat center center/cover;
+            color: white;
+        }
+        .hero img {
+            width: 100%;
+            height: auto;
+            alt: "CAP LOCKERS - Secure your cap during outdoor activities";
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #567f90;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 40px;
+        }
+        .feature-box {
+            width: 30%;
+            text-align: center;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            margin: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .blog {
+            margin-top: 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .faq {
+            margin-top: 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #567f90;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CAP LOCKERS</h1>
+        <p>Use it, don't lose it!</p>
+    </header>
+
+    <div class="hero">
+        <h2>Secure Your Adventure</h2>
+        <p>The ultimate cap fastening device for outdoor enthusiasts</p>
+        <img src="hero-image.jpg" alt="CAP LOCKERS - Secure your cap during outdoor activities">
+        <a href="#shop" class="btn">Shop Now</a>
+    </div>
+
+    <div class="container">
+        <h2>Why Choose CAP LOCKERS?</h2>
+        <div class="features">
+            <div class="feature-box">
+                <h3>Innovative Design</h3>
+                <p>A stylish and secure way to keep your cap in place.</p>
+            </div>
+            <div class="feature-box">
+                <h3>Reliable & Durable</h3>
+                <p>Made for high-movement outdoor activities and windy conditions.</p>
+            </div>
+            <div class="feature-box">
+                <h3>Comfort & Style</h3>
+                <p>A hassle-free solution without compromising on aesthetics.</p>
+            </div>
+        </div>
+
+        <div class="blog">
+            <h2>Latest Blog Posts</h2>
+            <ul>
+                <li><a href="#">How to Keep Your Cap Secure While Surfing</a></li>
+                <li><a href="#">The Best Outdoor Gear for Windy Adventures</a></li>
+                <li><a href="#">Sun Protection Tips for Outdoor Enthusiasts</a></li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <h2>Frequently Asked Questions</h2>
+            <p><strong>How does CAP LOCKERS work?</strong><br> CAP LOCKERS securely fastens your cap using an innovative yet comfortable mechanism.</p>
+            <p><strong>Is it waterproof?</strong><br> Yes, it's designed for water sports and outdoor adventures.</p>
+            <p><strong>Can I use it on any cap?</strong><br> CAP LOCKERS is compatible with most standard caps.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 CAP LOCKERS. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
